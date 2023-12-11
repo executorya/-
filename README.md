@@ -1,4 +1,4 @@
 # Курсовая работа РКЧИР
 # Тема: Клиентская часть интернет ресурса "Парфюмерия"
 # ИКБО-33-22 Недбай Егор Дмитриевич
-https://executorya.github.io/kursa4/curs.html
+https://executorya.github.io/-/curs.html
